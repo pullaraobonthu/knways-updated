@@ -1,0 +1,81 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Who We Are | KNways</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="wrap nav">
+        <a class="logo" href="index.html">KN<b>ways</b></a>
+        <button class="hamb">☰</button>
+        <nav class="links">
+            <a href="index.html">Home</a>
+            <a href="about.html">Who we are</a>
+            <a href="services.html">What we do</a>
+            <a href="consulting.html">Consulting</a>
+            <a href="professional-services.html">Professional Services</a>
+            <a href="outsourcing.html">Outsourcing</a>
+            <a href="marketing.html">Marketing</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <a href="contact.html" class="nav-cta">CONSULT WITH US</a>
+    </div>
+</header>
+
+<main>
+<section class="pagehero">
+    <div class="wrap">
+        <p class="eyebrow">KNways / Who we are</p>
+        <h1>Built around your growth.</h1>
+        <p>
+            KNways partners with organizations to navigate challenges,
+            unlock opportunities and make meaningful progress.
+        </p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="wrap split">
+        <div>
+            <div class="section-head">
+                <h2>Your growth is our priority.</h2>
+                <p>
+                    We work with businesses to understand their goals,
+                    identify opportunities and provide practical
+                    support that helps them move forward.
+                </p>
+            </div>
+
+            <ul class="ticklist">
+                <li>We begin by understanding your goals</li>
+                <li>We align on priorities and next steps</li>
+                <li>We collaborate with transparency and care</li>
+                <li>We focus on outcomes that matter</li>
+            </ul>
+
+            <a class="button" href="contact.html">Work with us</a>
+        </div>
+
+        <div class="visual">
+            <div class="visual-label">Growing together.</div>
+        </div>
+    </div>
+</section>
+</main>
+
+<footer class="footer">
+    <div class="wrap">
+        <a class="logo" href="index.html">KN<b>ways</b></a>
+        <p>Your trusted partner for your growth.</p>
+        <div class="copyright">© <span data-year></span> KNways. All rights reserved.</div>
+    </div>
+</footer>
+
+<script src="assets/script.js"></script>
+</body>
+</html>

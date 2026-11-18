@@ -1,0 +1,99 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Our Services | KNways</title>
+    <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<header class="header">
+    <div class="wrap nav">
+        <a class="logo" href="index.html">KN<b>ways</b></a>
+        <button class="hamb">☰</button>
+        <nav class="links">
+            <a href="index.html">Home</a>
+            <a href="about.html">Who we are</a>
+            <a href="services.html">What we do</a>
+            <a href="consulting.html">Consulting</a>
+            <a href="professional-services.html">Professional Services</a>
+            <a href="outsourcing.html">Outsourcing</a>
+            <a href="marketing.html">Marketing</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+        <a href="contact.html" class="nav-cta">CONSULT WITH US</a>
+    </div>
+</header>
+
+<main>
+<section class="pagehero">
+    <div class="wrap">
+        <p class="eyebrow">KNways / What we do</p>
+        <h1>Expertise that moves work forward.</h1>
+        <p>
+            Explore our business services designed to help your
+            organization grow, improve and deliver.
+        </p>
+    </div>
+</section>
+
+<section class="section">
+    <div class="wrap">
+        <div class="cards">
+
+            <article class="card">
+                <div class="symbol">⌘</div>
+                <h3>Consulting</h3>
+                <p>Strategy, assessment and business improvement.</p>
+                <a class="arrow" href="consulting.html">Learn more →</a>
+            </article>
+
+            <article class="card">
+                <div class="symbol">◇</div>
+                <h3>Professional Services</h3>
+                <p>Specialist expertise and delivery support.</p>
+                <a class="arrow" href="professional-services.html">Learn more →</a>
+            </article>
+
+            <article class="card">
+                <div class="symbol">↗</div>
+                <h3>Outsourcing</h3>
+                <p>Flexible operational and resourcing support.</p>
+                <a class="arrow" href="outsourcing.html">Learn more →</a>
+            </article>
+
+            <article class="card">
+                <div class="symbol">◎</div>
+                <h3>Marketing</h3>
+                <p>Brand, communications and audience engagement.</p>
+                <a class="arrow" href="marketing.html">Learn more →</a>
+            </article>
+
+        </div>
+    </div>
+</section>
+
+<section class="cta">
+    <div class="wrap cta-inner">
+        <div>
+            <h2>Let's discuss your business goals.</h2>
+            <p>Find the right support for your next stage of growth.</p>
+        </div>
+        <a class="button" href="contact.html">Contact KNways</a>
+    </div>
+</section>
+</main>
+
+<footer class="footer">
+    <div class="wrap">
+        <a class="logo" href="index.html">KN<b>ways</b></a>
+        <p>Your trusted partner for your growth.</p>
+        <div class="copyright">© <span data-year></span> KNways. All rights reserved.</div>
+    </div>
+</footer>
+
+<script src="assets/script.js"></script>
+</body>
+</html>

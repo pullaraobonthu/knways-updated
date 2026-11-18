@@ -1,0 +1,67 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Consulting | KNways</title>
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+<header class="header">
+<div class="wrap nav">
+<a class="logo" href="index.html">KN<b>ways</b></a>
+<button class="hamb">☰</button>
+<nav class="links">
+<a href="index.html">Home</a>
+<a href="about.html">Who we are</a>
+<a href="services.html">What we do</a>
+<a href="consulting.html">Consulting</a>
+<a href="professional-services.html">Professional Services</a>
+<a href="outsourcing.html">Outsourcing</a>
+<a href="marketing.html">Marketing</a>
+<a href="contact.html">Contact</a>
+</nav>
+<a href="contact.html" class="nav-cta">CONSULT WITH US</a>
+</div>
+</header>
+
+<main>
+<section class="pagehero">
+<div class="wrap">
+<p class="eyebrow">KNways / Consulting</p>
+<h1>Clarity for decisions. Confidence for action.</h1>
+<p>We help you assess business challenges, identify opportunities and define practical ways forward.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="wrap split">
+<div>
+<div class="section-head">
+<h2>Make your next move with clarity.</h2>
+<p>Our consulting approach focuses on understanding your business and identifying practical opportunities for improvement.</p>
+</div>
+<ul class="ticklist">
+<li>Business and operational assessment</li>
+<li>Strategy and planning support</li>
+<li>Process improvement opportunities</li>
+<li>Technology and transformation guidance</li>
+</ul>
+<a class="button" href="contact.html">Discuss your requirements</a>
+</div>
+<div class="visual"><div class="visual-label">Consulting • KNways</div></div>
+</div>
+</section>
+</main>
+
+<footer class="footer">
+<div class="wrap">
+<a class="logo" href="index.html">KN<b>ways</b></a>
+<p>Your trusted partner for your growth.</p>
+<div class="copyright">© <span data-year></span> KNways. All rights reserved.</div>
+</div>
+</footer>
+<script src="assets/script.js"></script>
+</body>
+</html>

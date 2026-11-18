@@ -1,0 +1,122 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contact Us | KNways</title>
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<header class="header">
+<div class="wrap nav">
+<a class="logo" href="index.html">KN<b>ways</b></a>
+<button class="hamb">☰</button>
+<nav class="links">
+<a href="index.html">Home</a>
+<a href="about.html">Who we are</a>
+<a href="services.html">What we do</a>
+<a href="consulting.html">Consulting</a>
+<a href="professional-services.html">Professional Services</a>
+<a href="outsourcing.html">Outsourcing</a>
+<a href="marketing.html">Marketing</a>
+<a href="contact.html">Contact</a>
+</nav>
+<a href="contact.html" class="nav-cta">CONSULT WITH US</a>
+</div>
+</header>
+
+<main>
+
+<section class="pagehero">
+<div class="wrap">
+<p class="eyebrow">Let's connect</p>
+<h1>Let's start a conversation.</h1>
+<p>Tell us what you're working towards. We'd be glad to understand your needs and explore how we can help.</p>
+</div>
+</section>
+
+<section class="section">
+<div class="wrap contact-layout">
+
+<aside class="contact-box">
+<h2>Get in touch</h2>
+<p>Reach out to discuss a requirement, explore a partnership or learn more about KNways.</p>
+
+<div class="contact-line">
+<small>Email</small>
+<a href="mailto:info@knways.com">info@knways.com</a>
+</div>
+
+<div class="contact-line">
+<small>Phone</small>
+<a href="tel:+919000396285">+91 9000396285</a>
+</div>
+
+<div class="contact-line">
+<small>Location</small>
+Hyderabad, Telangana, India
+</div>
+</aside>
+
+<form class="formbox" id="enquiry">
+<h2>Send an enquiry</h2>
+<p>Complete the form and your email application will open with the enquiry prepared.</p>
+
+<div class="formgrid">
+
+<div class="field">
+<label>Name *</label>
+<input name="name" required>
+</div>
+
+<div class="field">
+<label>Email *</label>
+<input name="email" type="email" required>
+</div>
+
+<div class="field">
+<label>Phone</label>
+<input name="phone" type="tel">
+</div>
+
+<div class="field">
+<label>Interested in</label>
+<select name="service">
+<option>Consulting</option>
+<option>Professional Services</option>
+<option>Outsourcing</option>
+<option>Marketing</option>
+<option>Other</option>
+</select>
+</div>
+
+</div>
+
+<div class="field">
+<label>Message *</label>
+<textarea name="message" required></textarea>
+</div>
+
+<button class="button" type="submit">
+Prepare email enquiry
+</button>
+
+</form>
+</div>
+</section>
+
+</main>
+
+<footer class="footer">
+<div class="wrap">
+<a class="logo" href="index.html">KN<b>ways</b></a>
+<p>Your trusted partner for your growth.</p>
+<div class="copyright">© <span data-year></span> KNways. All rights reserved.</div>
+</div>
+</footer>
+
+<script src="assets/script.js"></script>
+</body>
+</html>
